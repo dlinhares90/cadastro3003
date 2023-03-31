@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ac998ba.chunk.css",
+    "main.js": "/static/js/main.96b828de.chunk.js",
+    "main.js.map": "/static/js/main.96b828de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.77b13583.js",
+    "runtime-main.js.map": "/static/js/runtime-main.77b13583.js.map",
+    "static/js/2.91181fbb.chunk.js": "/static/js/2.91181fbb.chunk.js",
+    "static/js/2.91181fbb.chunk.js.map": "/static/js/2.91181fbb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.feda1572f4ec166fd5e01cf68b335a0e.js": "/precache-manifest.feda1572f4ec166fd5e01cf68b335a0e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8ac998ba.chunk.css.map": "/static/css/main.8ac998ba.chunk.css.map",
+    "static/js/2.91181fbb.chunk.js.LICENSE.txt": "/static/js/2.91181fbb.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/DSariUltraBlack.f79a9d2b.ttf",
+    "static/media/Resultado.scss": "/static/media/fundo inicio.81cb755c.png",
+    "static/media/PageContainer.scss": "/static/media/fundo rotas.4690ed63.png",
+    "static/media/loading.06e9f15f.svg": "/static/media/loading.06e9f15f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77b13583.js",
+    "static/js/2.91181fbb.chunk.js",
+    "static/css/main.8ac998ba.chunk.css",
+    "static/js/main.96b828de.chunk.js"
+  ]
+}
